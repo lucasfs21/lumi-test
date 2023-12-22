@@ -1,3 +1,5 @@
+# Vídeo da visualização e explicação da aplicação
+https://www.youtube.com/watch?v=t3K1VxD7AaU
 # Backend
 O backend foi criado em node
 ## Dependencies
